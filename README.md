@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Jayvarma1415
-- 👀 I’m interested in webdev
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me msg
+- 👀 I’m interested in mobile dev
+- 🌱 I’m currently React Native
+- 💞️ I want to collaborate on projects with js/ts, react.
+- 📫 How to reach me? just DM/ig: jay__9995
 - ⚡ Fun fact: A code a day keeps the bugs away.
+- 🦾 Techs learned: HTML--CSS--JAVASCRIPT--C--REACT--REACTNATIVE--SQL--MongoDB--JAVA
 
 <!---
 Jayvarma1415/Jayvarma1415 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
