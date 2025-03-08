@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jayvarma1415
-- 👀 I’m interested in mobile dev
-- 🌱 I’m currently React Native
+- 👀 I’m interested in mobile/web dev
+- 🌱 I’m currently into React Native
 - 💞️ I want to collaborate on projects with js/ts, react.
 - 📫 How to reach me? just DM/ig: jay__9995
 - ⚡ Fun fact: A code a day keeps the bugs away.
